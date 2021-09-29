@@ -16,4 +16,13 @@
     align-items: center;
     padding: 1rem;
   } 
-  
+  .btn{
+    outline: 0;
+    margin: 15px;
+    cursor: pointer;
+    border-radius: 4px;
+    background-color: burlywood;
+    width: 100px;
+    border: 0.5px solid rgba(0, 0, 0, 0.37);
+    padding: 0.5rem 1rem;
+  }

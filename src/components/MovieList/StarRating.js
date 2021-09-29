@@ -1,7 +1,7 @@
 import React from "react";
 
 const StarRating = ({rating, handelRating}) => {
-  console.log(rating)
+  // console.log(rating)
   let stars = (rating) => {
     let tab = [];
     for (let i = 1; i <= 5; i++) {
